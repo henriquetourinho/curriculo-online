@@ -3,4 +3,4 @@ Apresento meu currículo, onde compartilho informações de contato, endereço, 
 
 Fique à vontade para entrar em contato! 
 
-<img src"https://raw.githubusercontent.com/henriquetourinho/curriculo-online/main/media/versoes/v1.webp">
+<img src="https://raw.githubusercontent.com/henriquetourinho/curriculo-online/main/media/versoes/v1.webp">
