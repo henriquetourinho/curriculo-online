@@ -1,0 +1,19 @@
+body{background-color:#fff;margin:0;padding:0;color:#111;text-align:justify;font-family:ubuntu,aria;font-size:16px;margin-bottom: 0.5em;}
+
+
+
+h1,h2,h3,h4,h5,legend {text-align:left;margin-right:15%;margin-top:1.5em;margin-left:15%;font-weight:700;font-size:20px;}
+
+
+#timeline,#linha-do-tempo,#publicacao,#artigo{margin-left:auto;margin-right:auto;margin-top:0;max-width:800px;min-width:10px}
+
+
+
+a{text-decoration:none;color:#000;font-weight: bold;}
+
+a:hover{text-decoration:none;color:#077ffe}
+
+p, li{margin-right:15%;margin-left:15%;margin-bottom: 0.3em;}
+
+
+
